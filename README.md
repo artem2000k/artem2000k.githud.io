@@ -1,2 +1,2 @@
-# artem2000k.githud.io
-artem2000k.githud.io
+# artem2000k.github.io
+artem2000k.github.io
